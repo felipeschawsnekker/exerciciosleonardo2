@@ -1,4 +1,4 @@
-//Entrar com três números e exibi-los em ordem decrescente (suponha números diferentes)
+
 
 
 #include <iostream>
